@@ -1,6 +1,7 @@
 ![](cover.png)
 
-`yarn`
+# USAGE
+
 `yarn run teamA`
 
-# DO NOT USE IN PRODUCTION.
+## DO NOT USE IN PRODUCTION.
